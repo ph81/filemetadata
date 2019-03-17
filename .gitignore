@@ -2,6 +2,8 @@
 /node_modules
 #excluding directory
 /uploads/*
+#with exceptions
+!/uploads/.gitkeep
 # misc
 .DS_Store
 .env
