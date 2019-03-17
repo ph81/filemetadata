@@ -1,6 +1,7 @@
 # dependencies
 /node_modules
-
+#excluding directory
+/uploads/*
 # misc
 .DS_Store
 .env
